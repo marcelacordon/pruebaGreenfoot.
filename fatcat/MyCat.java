@@ -17,7 +17,7 @@ public class MyCat extends Cat
             eat();
         }
         if (isSleepy()==true){
-            sleep(2);
+            sleep(3);
             shoutHooray();   
         }else{
             shoutHooray();  
